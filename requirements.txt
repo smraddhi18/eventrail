@@ -1,0 +1,4 @@
+Django==5.2.18
+psycopg[binary]==3.2.10
+confluent-kafka==2.16.0
+gunicorn==23.0.0
